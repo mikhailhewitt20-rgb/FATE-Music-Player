@@ -2,7 +2,6 @@
 bin/
 obj/
 build/
-releases/
 *.user
 *.suo
 
@@ -14,3 +13,4 @@ releases/
 Thumbs.db
 desktop.ini
 .DS_Store
+
